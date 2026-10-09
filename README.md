@@ -2,6 +2,8 @@
 
 > **Defensive Platform Security & Entitlement Audit Toolchain for iOS 27 & macOS**
 
+[English](README.md) | [简体中文](README_ZH.md)
+
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
 [![Security Focus](https://img.shields.io/badge/focus-Defensive%20Security%20%26%20Audit-red.svg)](#security-and-responsible-disclosure)
@@ -60,7 +62,7 @@ ios_security_recon/
 ### Installation
 Clone the repository and install in editable mode:
 ```bash
-git clone https://github.com/example/ios-security-recon.git
+git clone https://github.com/Prognosticate-X/ios-security-recon.git
 cd ios-security-recon
 pip install -e .
 ```
